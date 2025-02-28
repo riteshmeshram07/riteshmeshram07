@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Ritesh Meshram, a highly motivated final-year B.Tech student in Computer Science Engineering at IIIT Nagpur. Proficient in Javascript , React, Nodejs, Expressjs, Mongodb and MERN Stack development. Eager to contribute as a Full Stack Developer or Front-End , delivering innovative and user-centric web solutions. Collaborative team player with a passion for creating impactful user experiences. Let's connect and explore exciting opportunities! Email: riteshmeshram0503@gmail.com
+Hello! I'm Ritesh Meshram, a B.Tech graduate in Computer Science from IIIT Nagpur, passionate about Data Analysis and Data Visualization. I excel in Python, Statistics, EDA, Feature Engineering, Power BI, SQL Server, Snowflake, and AWS, turning complex datasets into actionable insights.  
+I’m eager to contribute as a Data Analyst or Data Scientist, leveraging my analytical skills to solve real-world problems. With a problem-solving mindset and a collaborative spirit, I thrive on data-driven projects that drive impactful business outcomes. Email: riteshmeshram0503@gmail.com
 
 
 ## 🌐 Socials:
