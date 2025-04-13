@@ -1,7 +1,17 @@
 # 💫 About Me:
-Hello! I'm Ritesh Meshram, a B.Tech graduate in Computer Science from IIIT Nagpur, passionate about Data Analysis and Data Visualization. I excel in Python, Statistics, EDA, Feature Engineering, Power BI, SQL Server, Snowflake, and AWS, turning complex datasets into actionable insights.  
-I’m eager to contribute as a Data Analyst or Data Scientist, leveraging my analytical skills to solve real-world problems. With a problem-solving mindset and a collaborative spirit, I thrive on data-driven projects that drive impactful business outcomes. 
-Email: riteshmeshram0503@gmail.com
+Hi, I’m Ritesh Meshram — a B.Tech graduate in Computer Science from IIIT Nagpur with a strong curiosity for data and how it can be used to solve real-world problems.
+
+Over the last few years, I’ve worked on projects ranging from customer churn analysis and financial KPI dashboards to trend forecasting using Google Trends API. I enjoy turning complex data into easy-to-understand stories that help teams make smarter, faster decisions.
+
+My toolbox includes Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQL Server, MySQL, Snowflake), Power BI, Tableau, and Excel. I’m also experienced in ETL processes, data cleaning, EDA, feature engineering, and predictive analytics. On the cloud side, I’m comfortable working with AWS, Snowflake.
+
+I bring a mix of technical expertise and business understanding to the table, and I’m always eager to learn, collaborate, and optimize wherever possible. Whether it’s through data visualization, building a machine learning model, or streamlining a reporting pipeline — I’m driven by the impact data can make.
+
+Currently, I’m looking for full-time roles as a Data Analyst or Data Scientist, where I can grow, contribute, and solve meaningful problems alongside a motivated team.
+
+Let’s connect — happy to chat about data, analytics, career moves, or even the beauty of a well-designed dashboard.
+
+📧 riteshmeshram0503@gmail.com
 
 
 ## 🌐 Socials:
