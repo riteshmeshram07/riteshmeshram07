@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Ritesh Meshram — a B.Tech graduate in Computer Science from IIIT Nagpur with a strong curiosity for data and how it can be used to solve real-world problems.
 
-Over the last few years, I’ve worked on projects ranging from customer churn analysis and financial KPI dashboards to trend forecasting using Google Trends API. I enjoy turning complex data into easy-to-understand stories that help teams make smarter, faster decisions.
+Over the last few years, I’ve worked on projects ranging from customer churn analysis, Supply Chain Optimization and financial KPI dashboards to trend forecasting using Google Trends API. I enjoy turning complex data into easy-to-understand stories that help teams make smarter, faster decisions.
 
 My toolbox includes **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow), **SQL** (SQL Server, MySQL, Snowflake), **Power BI**, **Tableau**, and **Excel**. I’m also experienced in **ETL processes**, **data cleaning**, **EDA**, **feature engineering**, and **predictive analytics**. I have experience with **machine learning** and **deep learning** models as well. On the cloud side, I’m comfortable working with **AWS** and **Snowflake**.
 
